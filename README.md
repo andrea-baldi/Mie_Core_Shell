@@ -1,0 +1,1 @@
+This script reads the relative permittivity data of two materials and uses Mie theory to compute the scattering, extinction, and absorption cross-sections for a spherical core-shell particle embedded in a lossless medium. The permittivity files need be tab-delimited text files with three columns: energy (in eV), epsilon1, epsilon2.
